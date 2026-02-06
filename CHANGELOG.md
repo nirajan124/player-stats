@@ -7,3 +7,5 @@
 - 2024-25 season player data
 
 - Release note 1
+
+- Release note 2
