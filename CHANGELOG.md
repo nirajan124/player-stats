@@ -39,3 +39,5 @@
 - Release note 16
 
 - Release note 17
+
+- Release note 18
