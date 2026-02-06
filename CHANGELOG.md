@@ -17,3 +17,5 @@
 - Release note 5
 
 - Release note 6
+
+- Release note 7
