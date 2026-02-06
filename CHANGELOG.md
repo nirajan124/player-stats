@@ -23,3 +23,5 @@
 - Release note 8
 
 - Release note 9
+
+- Release note 10
