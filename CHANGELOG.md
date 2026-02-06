@@ -11,3 +11,5 @@
 - Release note 2
 
 - Release note 3
+
+- Release note 4
