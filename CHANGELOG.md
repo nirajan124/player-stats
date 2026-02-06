@@ -47,3 +47,5 @@
 - Release note 20
 
 - Release note 21
+
+- Release note 22
