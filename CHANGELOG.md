@@ -9,3 +9,5 @@
 - Release note 1
 
 - Release note 2
+
+- Release note 3
